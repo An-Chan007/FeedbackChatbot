@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+backup
+chroma
+# Ignore virtual environment
+.venv/
+# Ignore large files
+**/Lib/site-packages/*
+# Ignore other large files
+*.lib
+*.dll
